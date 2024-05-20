@@ -33,7 +33,7 @@
 
 <img src="img/1-4.png">
 
-[ALL](https://github.com/kshatyy/ci-01-intro/blob/main/dz/ALL.xml)
+[maven-metadata.xml](https://github.com/kshatyy/ci-02/blob/main/dz/maven-metadata.xml)
 
 ### Maven
 
@@ -41,6 +41,4 @@
 
 <img src="img/1-6.png">
 
-[ALL](https://github.com/kshatyy/ci-01-intro/blob/main/dz/ALL.xml)
-
-[ALL](https://github.com/kshatyy/ci-01-intro/blob/main/dz/ALL.xml)
+[pom.xml](https://github.com/kshatyy/ci-02/blob/main/dz/pom.xml)
